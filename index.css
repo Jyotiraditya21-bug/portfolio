@@ -1192,6 +1192,7 @@ em {
 .pv-forge { background: linear-gradient(135deg, #18092c, #03000a); }
 .pv-luminate { background: linear-gradient(135deg, #081d28, #03000a); }
 .pv-repomind { background: linear-gradient(160deg, #030f0a 0%, #020807 100%); }
+.pv-permission-rag { background: linear-gradient(135deg, #1f0c0c, #0d0405); }
 
 /* --- Browser Mockup Preview --- */
 .browser-mockup {
